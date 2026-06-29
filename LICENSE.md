@@ -1,4 +1,4 @@
-# 
+# Automatic Yi-Lightning scripts. Featuring automated-reasoning and community-support — optimized for maximum performance and efficiency.
 
 
 
